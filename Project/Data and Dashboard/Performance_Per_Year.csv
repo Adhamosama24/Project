@@ -1,0 +1,56 @@
+Sales name,company,Year,Total Sales,Target,Performance
+Bob,Savills,2020,"58,597,481.57","58,597,481.57",Not Exceed
+Bob,Savills,2021,"57,946,625.57","61,527,355.65",Not Exceed
+Bob,Savills,2022,"67,124,318.92","60,843,956.85",Exceeds
+Bob,Savills,2023,"59,990,384.65","70,480,534.87",Not Exceed
+Bob,Savills,2024,"61,093,452.81","62,989,903.88",Not Exceed
+Charlie,Countrywide,2020,"74,645,846.19","74,645,846.19",Not Exceed
+Charlie,Countrywide,2021,"64,929,476.76","78,378,138.50",Not Exceed
+Charlie,Countrywide,2022,"70,006,257.60","68,175,950.60",Exceeds
+Charlie,Countrywide,2023,"66,209,064.05","73,506,570.48",Not Exceed
+Charlie,Countrywide,2024,"69,414,954.50","69,519,517.26",Not Exceed
+Diana,Savills,2020,"71,083,189.33","71,083,189.33",Not Exceed
+Diana,Savills,2021,"66,584,142.95","74,637,348.80",Not Exceed
+Diana,Savills,2022,"63,920,607.26","69,913,350.10",Not Exceed
+Diana,Savills,2023,"63,301,582.23","67,116,637.62",Not Exceed
+Diana,Savills,2024,"67,405,789.45","66,466,661.34",Exceeds
+Eslam,Redrow,2020,"62,532,676.54","62,532,676.54",Not Exceed
+Eslam,Redrow,2021,"69,674,055.83","65,659,310.37",Exceeds
+Eslam,Redrow,2022,"65,974,176.42","73,157,758.62",Not Exceed
+Eslam,Redrow,2023,"62,941,256.27","69,272,885.24",Not Exceed
+Eslam,Redrow,2024,"65,064,992.78","66,088,319.08",Not Exceed
+Ethan,Countrywide,2020,"70,205,216.25","70,205,216.25",Not Exceed
+Ethan,Countrywide,2021,"64,097,087.84","73,715,477.06",Not Exceed
+Ethan,Countrywide,2022,"61,763,929.54","67,301,942.24",Not Exceed
+Ethan,Countrywide,2023,"63,951,859.34","64,852,126.02",Not Exceed
+Ethan,Countrywide,2024,"66,262,770.74","67,149,452.30",Not Exceed
+Oweis,Savills,2020,"63,958,635.42","63,958,635.42",Not Exceed
+Oweis,Savills,2021,"69,925,037.16","67,156,567.19",Exceeds
+Oweis,Savills,2022,"112,401,768.93","73,421,289.02",Not Exceed
+Oweis,Savills,2023,"68,085,032.85","118,021,857.38",Exceeds
+Oweis,Savills,2024,"63,258,826.74","71,489,284.49",Not Exceed
+Passant,Countrywide,2020,"59,325,618.47","59,325,618.47",Not Exceed
+Passant,Countrywide,2021,"65,588,787.91","62,291,899.39",Exceeds
+Passant,Countrywide,2022,"67,415,214.49","68,868,227.30",Not Exceed
+Passant,Countrywide,2023,"62,343,284.27","70,785,975.21",Not Exceed
+Passant,Countrywide,2024,"64,164,110.55","65,460,448.48",Not Exceed
+Reda,Countrywide,2020,"61,535,336.64","61,535,336.64",Not Exceed
+Reda,Countrywide,2021,"64,362,383.78","64,612,103.47",Not Exceed
+Reda,Countrywide,2022,"62,756,977.49","67,580,502.97",Not Exceed
+Reda,Countrywide,2023,"65,803,532.10","65,894,826.36",Not Exceed
+Reda,Countrywide,2024,"63,120,759.86","69,093,708.71",Not Exceed
+Sara,Savills,2020,"63,226,736.96","63,226,736.96",Not Exceed
+Sara,Savills,2021,"59,185,382.70","66,388,073.80",Not Exceed
+Sara,Savills,2022,"62,876,795.19","62,144,651.83",Exceeds
+Sara,Savills,2023,"59,608,156.80","66,020,634.95",Not Exceed
+Sara,Savills,2024,"57,968,541.52","62,588,564.64",Not Exceed
+Yara,Redrow,2020,"62,963,669.80","62,963,669.80",Not Exceed
+Yara,Redrow,2021,"64,803,335.37","66,111,853.29",Not Exceed
+Yara,Redrow,2022,"64,334,367.33","68,043,502.14",Not Exceed
+Yara,Redrow,2023,"64,612,297.74","67,551,085.70",Not Exceed
+Yara,Redrow,2024,"67,031,508.91","67,842,912.63",Not Exceed
+unkown sales,Savills,2020,"2,074,864.25","2,074,864.25",Not Exceed
+unkown sales,Savills,2021,"2,315,671.15","2,178,607.46",Exceeds
+unkown sales,Savills,2022,"2,136,212.92","2,431,454.71",Not Exceed
+unkown sales,Savills,2023,"2,302,436.37","2,243,023.56",Exceeds
+unkown sales,Savills,2024,"2,639,277.61","2,417,558.19",Exceeds
